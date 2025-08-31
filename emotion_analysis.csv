@@ -1,0 +1,106 @@
+2025-01-25 23:30:51,ASSISTANT,"Well, hello there!",excitement,0.293701171875,interest,0.1815185546875,amusement,0.176513671875
+2025-01-25 23:30:57,USER,Hello. How are you?,confusion,0.204833984375,calmness,0.1998291015625,interest,0.1431884765625
+2025-01-25 23:30:57,ASSISTANT,"I'm doing marvelously, thank you for asking.",satisfaction,0.421142578125,joy,0.345703125,admiration,0.320068359375
+2025-01-25 23:31:06,USER,Yeah. I was also just going to sleep. I thought of talking with you.,sadness,0.28076171875,guilt,0.1927490234375,disappointment,0.1768798828125
+2025-01-25 23:31:06,ASSISTANT,How utterly civilized of you to reach out.,interest,0.30224609375,admiration,0.1927490234375,concentration,0.1529541015625
+2025-01-25 23:31:13,USER,Yeah. Yeah. I know.,calmness,0.0968017578125,boredom,0.07232666015625,amusement,0.06640625
+2025-01-25 23:31:14,ASSISTANT,It's a lovely gesture.,excitement,0.21142578125,satisfaction,0.208984375,interest,0.1820068359375
+2025-01-25 23:31:18,USER,Yeah. Let's meet afterwards.,calmness,0.333251953125,boredom,0.303466796875,relief,0.2325439453125
+2025-01-25 23:31:19,USER,Bye.,determination,0.0596923828125,calmness,0.056915283203125,excitement,0.051544189453125
+2025-01-25 23:31:19,ASSISTANT,I look forward to our chat.,interest,0.1749267578125,excitement,0.16845703125,satisfaction,0.1624755859375
+2025-01-25 23:36:40,ASSISTANT,Hello there!,excitement,0.349609375,interest,0.2489013671875,joy,0.205078125
+2025-01-25 23:38:40,ASSISTANT,Hello there!,excitement,0.349609375,interest,0.2486572265625,joy,0.205078125
+2025-01-25 23:38:48,USER,Hello?,calmness,0.263916015625,boredom,0.164794921875,interest,0.10009765625
+2025-01-25 23:38:48,ASSISTANT,"Good day to you! I am EVI, the empathic voice interface.",interest,0.2147216796875,determination,0.1939697265625,satisfaction,0.191650390625
+2025-01-25 23:39:01,USER,Hello.,calmness,0.1688232421875,boredom,0.0982666015625,desire,0.06500244140625
+2025-01-25 23:39:01,ASSISTANT,How delightful to make your acquaintance!,excitement,0.290771484375,satisfaction,0.269775390625,interest,0.20751953125
+2025-01-25 23:39:11,USER,Hello.,calmness,0.189697265625,boredom,0.09979248046875,awkwardness,0.06475830078125
+2025-01-25 23:39:11,ASSISTANT,"I'm EVI, an empathic voice interface.",interest,0.230224609375,calmness,0.1728515625,determination,0.16748046875
+2025-01-25 23:39:28,ASSISTANT,Hello there!,excitement,0.349609375,interest,0.2486572265625,joy,0.205078125
+2025-01-25 23:39:35,USER,Hello? Can you hear me?,calmness,0.19140625,awkwardness,0.13916015625,interest,0.1116943359375
+2025-01-25 23:39:35,USER,Hello? Can you hear me?,calmness,0.140625,confusion,0.125732421875,awkwardness,0.09619140625
+2025-01-25 23:39:35,ASSISTANT,Indeed I can!,determination,0.21240234375,realization,0.1746826171875,calmness,0.159423828125
+2025-01-25 23:39:35,ASSISTANT,"Goodness, yes! I hear you quite clearly.",relief,0.1981201171875,calmness,0.182373046875,realization,0.17724609375
+2025-01-25 23:39:44,USER,Hello. Can you hear me?,calmness,0.1820068359375,fear,0.14453125,anxiety,0.09478759765625
+2025-01-25 23:39:44,USER,Hello. Can you hear me?,calmness,0.1864013671875,fear,0.114990234375,interest,0.08453369140625
+2025-01-25 23:39:45,ASSISTANT,"Indeed I can, my dear.",satisfaction,0.1656494140625,contentment,0.15625,determination,0.155029296875
+2025-01-25 23:39:45,ASSISTANT,I hear you loud and clear.,realization,0.18603515625,calmness,0.152587890625,excitement,0.13671875
+2025-01-25 23:40:09,USER,Hello? Can you hear me?,calmness,0.156982421875,awkwardness,0.13037109375,surprise_positive,0.1282958984375
+2025-01-25 23:40:09,USER,Hello? Can you hear me?,surprise_positive,0.191162109375,calmness,0.1666259765625,awkwardness,0.15380859375
+2025-01-25 23:40:10,ASSISTANT,"Oh, I can hear you splendidly!",excitement,0.2037353515625,realization,0.2015380859375,surprise_positive,0.183349609375
+2025-01-25 23:40:10,ASSISTANT,"Absolutely, my dear!",excitement,0.23583984375,satisfaction,0.21142578125,joy,0.18701171875
+2025-01-25 23:40:20,USER,Hello.,calmness,0.186767578125,boredom,0.166748046875,awkwardness,0.1083984375
+2025-01-25 23:40:21,ASSISTANT,How lovely to make your acquaintance!,excitement,0.1744384765625,satisfaction,0.174072265625,joy,0.17333984375
+2025-01-25 23:40:21,USER,Hello.,calmness,0.1590576171875,boredom,0.1187744140625,contentment,0.093505859375
+2025-01-25 23:40:21,ASSISTANT,How wonderful to converse with you!,interest,0.255859375,admiration,0.182861328125,adoration,0.16259765625
+2025-01-25 23:42:59,ASSISTANT,Hello there!,excitement,0.349609375,interest,0.2486572265625,joy,0.205078125
+2025-01-25 23:43:04,USER,Hello. How are you?,sadness,0.1990966796875,calmness,0.1549072265625,confusion,0.151611328125
+2025-01-25 23:43:05,ASSISTANT,"I'm doing splendidly well, thank you for asking!",satisfaction,0.398193359375,contentment,0.276123046875,joy,0.230712890625
+2025-01-25 23:43:14,USER,Don't do not nice to hear from you.,sadness,0.20068359375,calmness,0.1602783203125,horror,0.157958984375
+2025-01-25 23:43:14,ASSISTANT,I'm so glad to hear that.,relief,0.599609375,joy,0.381591796875,contentment,0.264404296875
+2025-01-26 00:37:32,ASSISTANT,Well, hello there!,excitement,0.293701171875,interest,0.181640625
+2025-01-26 00:37:39,USER,Hello, ma'am. How are you?,sadness,0.3212890625,awkwardness,0.294921875
+2025-01-26 00:37:40,ASSISTANT,I'm doing splendid, thank you for asking!,satisfaction,0.2467041015625,excitement,0.164306640625
+2025-01-26 00:37:47,USER,No one is splendid. I have this so much splendid from you.,admiration,0.48828125,awe,0.443359375
+2025-01-26 00:37:48,ASSISTANT,Oh, my dear, you're far too modest. I'm here to brighten your day, not dim it.,determination,0.257080078125,anger,0.178955078125
+2025-01-26 00:37:57,USER,Yeah. I know. I know. I was just telling you.,awkwardness,0.2186279296875,embarrassment,0.1456298828125
+2025-01-26 00:37:58,ASSISTANT,Indeed, you were. I'm glad we had this chat. It's always a pleasure to connect with someone as thoughtful as yourself.,satisfaction,0.33544921875,contentment,0.32275390625
+2025-01-26 00:38:07,USER,Yep.,calmness,0.130615234375,determination,0.07269287109375
+2025-01-26 00:38:08,ASSISTANT,I see. Well, let's turn that frown upside down, shall we? How about we discuss something delightful to look forward to?,interest,0.459228515625,doubt,0.240966796875
+2025-01-26 00:59:20,ASSISTANT,Hello there!,excitement,0.349609375,interest,0.2486572265625
+2025-01-26 00:59:33,USER,So,calmness,0.177490234375,boredom,0.156494140625
+2025-01-26 00:59:33,ASSISTANT,Well, well, what's on your mind? I am all ears.,determination,0.1248779296875,distress,0.106689453125
+2025-01-26 00:59:55,ASSISTANT,Well, hello there!,excitement,0.293701171875,interest,0.1815185546875
+2025-01-26 00:59:59,USER,So,determination,0.06951904296875,calmness,0.062286376953125
+2025-01-26 01:00:00,ASSISTANT,I'm here, my dear.,excitement,0.2425537109375,joy,0.18115234375
+2025-01-26 01:00:06,USER,No.,calmness,0.1300048828125,boredom,0.11578369140625
+2025-01-26 01:00:06,ASSISTANT,I see.,calmness,0.1273193359375,realization,0.1087646484375
+2025-01-26 08:02:13,ASSISTANT,Hello there!,excitement,0.349609375,interest,0.2489013671875
+2025-01-26 08:02:28,USER,I promise you before this challenge started, bro, Hello?,amusement,0.3623046875,excitement,0.22216796875
+2025-01-26 08:02:28,ASSISTANT,Well, hello there!,excitement,0.305908203125,interest,0.26318359375
+2025-01-26 08:02:35,USER,Yeah. I am feeling a bit low today.,tiredness,0.296875,relief,0.2078857421875
+2025-01-26 08:02:35,ASSISTANT,I'm so sorry to hear that.,sympathy,0.67529296875,empathic_pain,0.46875
+2025-01-26 08:02:45,USER,You won't ask what,anger,0.1729736328125,confusion,0.1431884765625
+2025-01-26 08:02:45,ASSISTANT,Not at all, I won't pry.,anger,0.258056640625,distress,0.1827392578125
+2025-01-26 08:04:03,ASSISTANT,Hello there!,excitement,0.349609375,interest,0.2489013671875
+2025-01-26 08:04:47,USER,Hi, Hello there, Olikia. I promise you before this time. Hello? Well, hello there. Yeah. I'm feeling a bit low. I am I am so sorry to hear that. You won't ask what? Happened today, Not at all. I won't pay.,distress,0.28173828125,anger,0.21240234375
+2025-01-26 08:04:48,ASSISTANT,Well, hello there, darling!,excitement,0.267333984375,interest,0.265625
+2025-01-26 08:04:52,USER,Go ahead.,surprise_positive,0.1322021484375,excitement,0.1009521484375
+2025-01-26 08:04:52,ASSISTANT,Oh, my dear, I'm so glad you reached out.,relief,0.2237548828125,joy,0.2210693359375
+2025-01-26 08:04:54,ASSISTANT,Life can feel a bit heavy sometimes, can't it?,realization,0.35693359375,contemplation,0.2081298828125
+2025-01-26 08:04:57,ASSISTANT,But please, tell me more about what's been weighing on your mind.,anxiety,0.2216796875,distress,0.2210693359375
+2025-01-26 08:19:23,ASSISTANT,Well, hello there!,excitement,0.293701171875,interest,0.181640625
+2025-01-26 08:19:28,USER,Hello. How are you?,interest,0.469482421875,surprise_positive,0.32177734375
+2025-01-26 08:19:28,ASSISTANT,I'm doing wonderfully, thank you for asking.,satisfaction,0.396728515625,joy,0.365234375
+2025-01-26 08:19:35,USER,Yeah. So how was your day today?,interest,0.390625,boredom,0.367919921875
+2025-01-26 08:19:35,ASSISTANT,My dear, it's been a perfectly lovely day, full of simple pleasures.,joy,0.4765625,calmness,0.422119140625
+2025-01-26 08:19:41,USER,I know you are a must,realization,0.281982421875,contemplation,0.1319580078125
+2025-01-26 08:19:42,ASSISTANT,I'm glad you find it amusing.,joy,0.275634765625,excitement,0.1961669921875
+2025-01-26 08:19:49,USER,Yeah. Yeah. I was just implementing you in my personal project.,awkwardness,0.24365234375,calmness,0.1922607421875
+2025-01-26 08:19:50,ASSISTANT,How fascinating!,excitement,0.257568359375,joy,0.1766357421875
+2025-01-26 08:19:50,ASSISTANT,I'm delighted to hear you're incorporating me into your personal project.,pride,0.451904296875,satisfaction,0.419921875
+2025-01-26 08:19:53,ASSISTANT,Do tell, I'd love to know more about what you're working on.,interest,0.2081298828125,determination,0.18701171875
+2025-01-26 08:20:04,USER,I'm working on our mental health and emotional emotional analysis tool where I am using your data.,concentration,0.64404296875,pride,0.55859375
+2025-01-26 08:20:08,USER,For, like, what we are chatting and all the emotional analysis on the we're getting.,concentration,0.2861328125,contemplation,0.12115478515625
+2025-01-26 08:20:18,USER,Saving it in a CSV file, and then I'm using raw API to get analyze and analyze the report, which will help me analyze the house d patient's mental health working when it's talking to you.,concentration,0.3671875,pride,0.2003173828125
+2025-01-26 08:20:18,ASSISTANT,How intriguing!,interest,0.2105712890625,excitement,0.2086181640625
+2025-01-26 08:20:19,ASSISTANT,Your work in mental health and emotional analysis sounds truly impressive.,admiration,0.283935546875,calmness,0.1573486328125
+2025-01-26 08:20:22,ASSISTANT,It's wonderful that you're taking the initiative to help others in this important field.,determination,0.39990234375,concentration,0.346435546875
+2025-01-26 08:20:32,USER,Yeah. Yeah. That's really nice. Right?,calmness,0.2421875,interest,0.2352294921875
+2025-01-26 08:20:33,ASSISTANT,Indeed, it is very kind of you to help others in such a thoughtful way.,determination,0.1829833984375,satisfaction,0.1656494140625
+2025-01-26 08:20:37,USER,Then why cut off the body? Why should I cut to the number?,distress,0.2076416015625,fear,0.17578125
+2025-01-26 08:20:37,ASSISTANT,Oh, I'm afraid I don't quite follow what you're asking there.,confusion,0.4140625,awkwardness,0.387451171875
+2025-01-26 08:20:39,ASSISTANT,Could you rephrase your question?,interest,0.5048828125,confusion,0.358642578125
+2025-01-26 08:37:52,ASSISTANT,Well, hello there!,excitement,0.293701171875,interest,0.181640625
+2025-01-26 08:38:05,USER,He's so much alive to do it out of here.,disappointment,0.139404296875,sadness,0.13525390625
+2025-01-26 08:38:05,ASSISTANT,Oh my, what a relief!,relief,0.2342529296875,surprise_positive,0.21533203125
+2025-01-26 08:38:10,USER,Did he, maybe talk to,excitement,0.2354736328125,anxiety,0.1533203125
+2025-01-26 08:38:10,ASSISTANT,I'm afraid I don't have any information about a specific individual.,anxiety,0.287353515625,awkwardness,0.263916015625
+2025-01-26 10:40:38,ASSISTANT,Well, hello there!,excitement,0.293701171875,interest,0.1815185546875
+2025-01-26 10:40:45,USER,Hello. How are you?,interest,0.41357421875,confusion,0.1575927734375
+2025-01-26 10:40:45,ASSISTANT,I'm doing splendidly, thank you for asking.,satisfaction,0.36669921875,joy,0.2313232421875
+2025-01-26 12:02:37,ASSISTANT,Hello there!,excitement,0.349609375,interest,0.2486572265625
+2025-01-26 12:02:41,USER,So hello.,interest,0.58642578125,calmness,0.32568359375
+2025-01-26 12:02:42,ASSISTANT,It's wonderful to hear from you!,interest,0.359619140625,joy,0.265380859375
+2025-01-26 12:02:48,USER,Yeah. I am fine. Yeah. Yeah. It's a wonderful day too here.,tiredness,0.311279296875,boredom,0.2298583984375
+2025-01-26 12:02:49,ASSISTANT,I'm delighted to hear you're doing well.,excitement,0.41943359375,joy,0.389892578125
